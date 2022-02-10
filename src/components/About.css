@@ -1,0 +1,45 @@
+.container-about{
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 400px;
+}
+
+.About {
+    display: flex;
+    height: 720px;
+    justify-content: center;
+    align-items: center;
+    background-color:#343434;
+}
+
+.about-user {
+    display: flex;
+    justify-content:center;
+}
+.about-user p {
+    font-size: 34px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-info {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 400px;
+}
+
+.info {
+    height:300px;
+    display: flex;
+    justify-content: center;
+    max-width: 300px;
+    margin: 20px;
+}
+
+.info p {
+    font-size: 16px;
+    color: #ffffff;
+}

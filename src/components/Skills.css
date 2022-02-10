@@ -1,0 +1,120 @@
+.container-skills {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo-skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.logo-skills p {
+    font-size: 34px;
+    color: #343434;
+    font-weight: 450;
+}
+
+/*---------logo-skilss----------*/
+.logo-skill-tech {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 50px;
+    /*border :1px solid red;*/
+}
+
+.html-skills {
+    justify-content: center;
+    align-items: center;
+    display: row;
+}
+.html-skills p {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #343434;
+}
+
+.css-skills {
+    justify-content: center;
+    align-items: center;
+    display: row;
+}
+.css-skills p {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #343434;
+}
+
+.java-skills {
+    justify-content: center;
+    align-items: center;
+    display: row;
+}
+.java-skills p {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #343434;
+}
+
+.logo-skill-tech-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 50px;
+    /*border :1px solid red;*/
+}
+
+.logo-skill-tech-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 50px;
+    /*border :1px solid red;*/
+}
+
+.html-skills img {
+    height: 150px;
+    width: auto;
+}
+
+.css-skills img {
+    height: 150px;
+    width: auto;
+}
+
+.java-skills img {
+    height: 150px;
+    width: auto;
+}
+
+.logo-skill-tech-4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 50px;
+    /*border :1px solid red;*/
+}

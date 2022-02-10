@@ -1,0 +1,85 @@
+.container-benner{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.benner {
+    margin-top: 10px;
+    height: 550px;
+    background-color: #ffffff;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.Hero-img{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.Hero-img img {
+    height: 200px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username p {
+    font-size:30px;
+    color: #343434;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: 450;
+}
+.img-benner-logo {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.img-benner-logo img {
+    height: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+.skill-benner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.skill-benner p {
+    font-size: 20px;
+    color: #343434;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-weight: 350;
+}
+.menu-so {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    max-width: 250px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.menu-so ul li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu-so ul li img {
+    display: flex;
+    height: 40px;
+    width: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+/*---------------Resposive--------------*/
+@media screen and (max-width: 1000px) and (min-width: 500px){
+    /*-----------*/
+}
