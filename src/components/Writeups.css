@@ -1,0 +1,49 @@
+.Writeups {
+    margin: 0 auto;
+    background-color: #343434;
+}
+
+.name-writeups{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name-writeups p {
+    font-size: 34px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 100%;
+}
+.writeups-info-all {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.writeups-info {
+    width: 300px;
+    margin-bottom: 35px;
+}
+.writeups-info h1 {
+    font-size: 20px;
+    font-weight: 300;
+    color: #C25EFF;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.writeups-info p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 300;
+}
+
