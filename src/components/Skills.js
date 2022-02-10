@@ -5,12 +5,13 @@ import javascript from "../assets/image/javascript.svg";
 import figma from "../assets/image/figma 1.svg";
 import python from "../assets/image/python.svg";
 import node from "../assets/image/nodejs.svg";
-import vscode from '../assets/image/Visual Studio Code.svg'
-import git from '../assets/image/git.svg'
-import ms_world from '../assets/image/ms_word.svg'
-import ms_excel from '../assets/image/ms_excel.svg'
-import ms_powerpoint from '../assets/image/ms_powerpoint.svg'
-import reactlogo from '../assets/image/react.svg'
+import vscode from "../assets/image/Visual Studio Code.svg";
+import git from "../assets/image/git.svg";
+import ms_world from "../assets/image/ms_word.svg";
+import ms_excel from "../assets/image/ms_excel.svg";
+import ms_powerpoint from "../assets/image/ms_powerpoint.svg";
+import reactlogo from "../assets/image/react.svg";
+import vue from "../assets/image/vue.svg";
 import "./Skills.css";
 
 function Skills() {
@@ -36,12 +37,12 @@ function Skills() {
             </div>
             <div className="logo-skill-tech-2">
                <div className="html-skills">
-                  <img src={figma} alt="" />
-                  <p>FIGMA</p>
+                  <img src={vue} alt="" />
+                  <p>VUE JS</p>
                </div>
                <div className="css-skills">
-                  <img src={python} alt="" />
-                  <p>PYTHON</p>
+                  <img src={reactlogo} alt="" />
+                  <p>REACT JS</p>
                </div>
                <div className="java-skills">
                   <img src={node} alt="" />
@@ -72,8 +73,8 @@ function Skills() {
                   <p>WORLD</p>
                </div>
                <div className="java-skills">
-                  <img src={reactlogo} alt="" />
-                  <p>REACT JS</p>
+                  <img src={python} alt="" />
+                  <p>PYTHON</p>
                </div>
             </div>
          </div>
